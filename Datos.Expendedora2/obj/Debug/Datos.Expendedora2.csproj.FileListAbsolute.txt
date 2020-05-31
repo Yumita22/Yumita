@@ -1,0 +1,9 @@
+C:\Users\yemin\Documents\YumiCode\Yumita\Datos.Expendedora2\obj\Debug\Datos.Expendedora2.csprojAssemblyReference.cache
+C:\Users\yemin\Documents\YumiCode\Yumita\Datos.Expendedora2\obj\Debug\Datos.Expendedora2.csproj.CoreCompileInputs.cache
+C:\Users\yemin\Documents\YumiCode\Yumita\Datos.Expendedora2\bin\Debug\Datos.Expendedora2.dll
+C:\Users\yemin\Documents\YumiCode\Yumita\Datos.Expendedora2\bin\Debug\Datos.Expendedora2.pdb
+C:\Users\yemin\Documents\YumiCode\Yumita\Datos.Expendedora2\bin\Debug\Excepciones.dll
+C:\Users\yemin\Documents\YumiCode\Yumita\Datos.Expendedora2\bin\Debug\Excepciones.pdb
+C:\Users\yemin\Documents\YumiCode\Yumita\Datos.Expendedora2\obj\Debug\Datos.Expendedora2.csproj.CopyComplete
+C:\Users\yemin\Documents\YumiCode\Yumita\Datos.Expendedora2\obj\Debug\Datos.Expendedora2.dll
+C:\Users\yemin\Documents\YumiCode\Yumita\Datos.Expendedora2\obj\Debug\Datos.Expendedora2.pdb

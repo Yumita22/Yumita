@@ -1,0 +1,12 @@
+C:\Users\yemin\Documents\YumiCode\Yumita\Expendedora_v4\obj\Debug\Expendedora_v4.csprojAssemblyReference.cache
+C:\Users\yemin\Documents\YumiCode\Yumita\Expendedora_v4\obj\Debug\Expendedora_v4.csproj.CoreCompileInputs.cache
+C:\Users\yemin\Documents\YumiCode\Yumita\Expendedora_v4\bin\Debug\Expendedora_v4.exe.config
+C:\Users\yemin\Documents\YumiCode\Yumita\Expendedora_v4\bin\Debug\Expendedora_v4.exe
+C:\Users\yemin\Documents\YumiCode\Yumita\Expendedora_v4\bin\Debug\Expendedora_v4.pdb
+C:\Users\yemin\Documents\YumiCode\Yumita\Expendedora_v4\bin\Debug\Datos.Expendedora2.dll
+C:\Users\yemin\Documents\YumiCode\Yumita\Expendedora_v4\bin\Debug\Excepciones.dll
+C:\Users\yemin\Documents\YumiCode\Yumita\Expendedora_v4\bin\Debug\Datos.Expendedora2.pdb
+C:\Users\yemin\Documents\YumiCode\Yumita\Expendedora_v4\bin\Debug\Excepciones.pdb
+C:\Users\yemin\Documents\YumiCode\Yumita\Expendedora_v4\obj\Debug\Expendedora_v4.csproj.CopyComplete
+C:\Users\yemin\Documents\YumiCode\Yumita\Expendedora_v4\obj\Debug\Expendedora_v4.exe
+C:\Users\yemin\Documents\YumiCode\Yumita\Expendedora_v4\obj\Debug\Expendedora_v4.pdb

@@ -1,0 +1,6 @@
+C:\Users\yemin\Documents\YumiCode\Yumita\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\yemin\Documents\YumiCode\Yumita\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\yemin\Documents\YumiCode\Yumita\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\yemin\Documents\YumiCode\Yumita\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\yemin\Documents\YumiCode\Yumita\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\yemin\Documents\YumiCode\Yumita\Excepciones\obj\Debug\Excepciones.pdb
