@@ -26,10 +26,12 @@ namespace Expendedora_v4
             Console.Read();
         }
 
-        public static void Listarlatas(Maqexp exp)
+        private static void Listarlatas(Maqexp exp)
         {
-            foreach (Lata nuevalata in exp.Latas)
-            { Console.WriteLine(nuevalata.ToString()); }
+            foreach (Lata l in exp.Latas)
+            { 
+                Console.WriteLine(1.ToString()); 
+            }
         }
 
         public static void AgregarLata(Maqexp exp)
