@@ -1,0 +1,13 @@
+C:\Users\yemin\Documents\YumiCode\Yumita\YLayer\YLayer.Datos\bin\Debug\YLayer.Datos.dll
+C:\Users\yemin\Documents\YumiCode\Yumita\YLayer\YLayer.Datos\bin\Debug\YLayer.Datos.pdb
+C:\Users\yemin\Documents\YumiCode\Yumita\YLayer\YLayer.Datos\bin\Debug\KellermanSoftware.Compare-NET-Objects.dll
+C:\Users\yemin\Documents\YumiCode\Yumita\YLayer\YLayer.Datos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yemin\Documents\YumiCode\Yumita\YLayer\YLayer.Datos\bin\Debug\YLayer.Entidades.dll
+C:\Users\yemin\Documents\YumiCode\Yumita\YLayer\YLayer.Datos\bin\Debug\YLayer.Entidades.pdb
+C:\Users\yemin\Documents\YumiCode\Yumita\YLayer\YLayer.Datos\bin\Debug\KellermanSoftware.Compare-NET-Objects.xml
+C:\Users\yemin\Documents\YumiCode\Yumita\YLayer\YLayer.Datos\bin\Debug\Newtonsoft.Json.xml
+C:\Users\yemin\Documents\YumiCode\Yumita\YLayer\YLayer.Datos\obj\Debug\YLayer.Datos.csprojAssemblyReference.cache
+C:\Users\yemin\Documents\YumiCode\Yumita\YLayer\YLayer.Datos\obj\Debug\YLayer.Datos.csproj.CoreCompileInputs.cache
+C:\Users\yemin\Documents\YumiCode\Yumita\YLayer\YLayer.Datos\obj\Debug\YLayer.Datos.csproj.CopyComplete
+C:\Users\yemin\Documents\YumiCode\Yumita\YLayer\YLayer.Datos\obj\Debug\YLayer.Datos.dll
+C:\Users\yemin\Documents\YumiCode\Yumita\YLayer\YLayer.Datos\obj\Debug\YLayer.Datos.pdb

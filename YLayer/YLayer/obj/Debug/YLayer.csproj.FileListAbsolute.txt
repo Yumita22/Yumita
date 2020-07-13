@@ -1,0 +1,16 @@
+C:\Users\yemin\Documents\YumiCode\Yumita\YLayer\YLayer\obj\Debug\YLayer.csprojAssemblyReference.cache
+C:\Users\yemin\Documents\YumiCode\Yumita\YLayer\YLayer\obj\Debug\YLayer.csproj.CoreCompileInputs.cache
+C:\Users\yemin\Documents\YumiCode\Yumita\YLayer\YLayer\bin\Debug\YLayer.exe.config
+C:\Users\yemin\Documents\YumiCode\Yumita\YLayer\YLayer\bin\Debug\YLayer.exe
+C:\Users\yemin\Documents\YumiCode\Yumita\YLayer\YLayer\bin\Debug\YLayer.pdb
+C:\Users\yemin\Documents\YumiCode\Yumita\YLayer\YLayer\bin\Debug\YLayer.Entidades.dll
+C:\Users\yemin\Documents\YumiCode\Yumita\YLayer\YLayer\bin\Debug\YLayer.Negocio.dll
+C:\Users\yemin\Documents\YumiCode\Yumita\YLayer\YLayer\bin\Debug\YLayer.Datos.dll
+C:\Users\yemin\Documents\YumiCode\Yumita\YLayer\YLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yemin\Documents\YumiCode\Yumita\YLayer\YLayer\bin\Debug\YLayer.Entidades.pdb
+C:\Users\yemin\Documents\YumiCode\Yumita\YLayer\YLayer\bin\Debug\YLayer.Negocio.pdb
+C:\Users\yemin\Documents\YumiCode\Yumita\YLayer\YLayer\bin\Debug\YLayer.Datos.pdb
+C:\Users\yemin\Documents\YumiCode\Yumita\YLayer\YLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\yemin\Documents\YumiCode\Yumita\YLayer\YLayer\obj\Debug\YLayer.csproj.CopyComplete
+C:\Users\yemin\Documents\YumiCode\Yumita\YLayer\YLayer\obj\Debug\YLayer.exe
+C:\Users\yemin\Documents\YumiCode\Yumita\YLayer\YLayer\obj\Debug\YLayer.pdb
